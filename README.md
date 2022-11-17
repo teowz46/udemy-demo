@@ -1,7 +1,7 @@
 # udemy-demo
 for udemy course
 
-something new hahahaha
+something new hohoho
 
 another new thingy
 
